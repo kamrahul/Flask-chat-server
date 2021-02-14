@@ -19,3 +19,7 @@ env\Scripts\activate
 # Installing requirements
 
 pip install -r requirements.txt
+
+# Run the flask server
+
+python app.py
